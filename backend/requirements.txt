@@ -1,0 +1,7 @@
+﻿torch
+pandas
+fastapi
+uvicorn
+pydantic
+requests
+matplotlib
